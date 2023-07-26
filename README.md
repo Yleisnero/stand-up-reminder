@@ -1,6 +1,6 @@
 # Stand up reminder
 The stand-up-reminder helps you to be more active while doing desk work. <br>
-It reminds you every 30min to stand up for 30min or to sit down again. <br>
+It reminds you every 30min to stand up for 30min or to sit down again.
 <pre>
 ----------------------------------------
 11:19:33 - Time to stand up!
