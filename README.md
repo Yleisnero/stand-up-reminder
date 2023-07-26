@@ -5,7 +5,7 @@ It reminds you every 30min to stand up for 30min or to sit down again. <br>
 <pre>
 ----------------------------------------
 11:19:33 - Time to stand up!
-<br>
+
 _\|/^
  (_oo
   |
@@ -16,7 +16,7 @@ _\|/^
 11:19:33 - 30min left
 11:29:33 - 20min left
 11:39:33 - 10min left
-<br>
+
 ----------------------------------------
 11:39:33 - Sit down!
 
