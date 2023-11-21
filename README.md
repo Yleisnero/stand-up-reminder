@@ -30,3 +30,12 @@ _\|/^
 ----------------------------------------
 11:49:33 - 30min left
 </pre>
+
+## Windows version
+### Prerequisites
+Run as administrator:
+```powershell
+Install-Module -Name BurntToast
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted
+.\stand-up-reminder.ps1
+```
