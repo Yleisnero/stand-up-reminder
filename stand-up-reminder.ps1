@@ -12,5 +12,5 @@ while ($true) {
     }
 
     $counter++
-    Start-Sleep -Seconds 30
+    Start-Sleep -Seconds 1800
 }
